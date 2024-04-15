@@ -1,0 +1,61 @@
+sort1 uses: bubble sort
+
+How do you know?: It took the longest to sort the reversed list of numbers.
+
+sort2 uses: merge sort
+
+How do you know?: It took the least amount of time to sort the randomly shuffled and reversed list of numbers.
+
+sort3 uses: selection sort
+
+How do you know?: It had the smallest variance in time.
+
+
+
+sorted5000:
+s1: 0m0.118s
+s2: 0m0.039s
+s3: 0m0.061s
+
+sorted10000:
+s1: 0m0.064s
+s2: 0m0.136s
+s3: 0m0.140s
+
+sorted50000:
+s1: 0m3.894s
+s2: 0m2.677s
+s3: 0m3.157s
+
+
+random5000:
+s1: 0m0.104s
+s2: 0m0.049s
+s3: 0m0.050s
+
+random10000:
+s1: 0m0.266s
+s2: 0m0.080s
+s3: 0m0.147s
+
+random50000:
+s1: 0m7.665s
+s2: 0m1.187s
+s3: 0m3.968s
+
+
+reversed5000:
+s1: 0m0.115s
+s2: 0m0.031s
+s3: 0m0.053s
+
+reversed10000:
+s1: 0m0.278s
+s2: 0m0.076s
+s3: 0m0.195s
+
+reversed50000:
+s1: 0m7.347s
+s2: 0m2.248s
+s3: 0m4.104s
+
