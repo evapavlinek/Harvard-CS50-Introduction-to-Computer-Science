@@ -32,7 +32,7 @@ Problem Set 3:
 
 -   [plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
 
--   [tideman](https://cs50.harvard.edu/x/2024/psets/3/tideman/) [in progress...]
+-   [tideman](https://cs50.harvard.edu/x/2024/psets/3/tideman/)
 
 ### [Week 4: Memory](https://cs50.harvard.edu/x/2024/weeks/4/)
 
