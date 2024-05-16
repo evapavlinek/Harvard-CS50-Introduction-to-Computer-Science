@@ -40,4 +40,32 @@ Problem Set 4:
 
 -   [volume](https://cs50.harvard.edu/x/2024/psets/4/volume/)
 
--   [filter-more](https://cs50.harvard.edu/x/2024/psets/4/filter/more/) [in progress...]
+-   [filter-more](https://cs50.harvard.edu/x/2024/psets/4/filter/more/)
+
+-   [recover](https://cs50.harvard.edu/x/2024/psets/4/recover/)
+
+### [Week 5: Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/)
+
+Problem Set 5:
+
+-   [inheritance](https://cs50.harvard.edu/x/2024/psets/5/inheritance/)
+
+-   [speller](https://cs50.harvard.edu/x/2024/psets/5/speller/)
+
+### [Week 6: Python](https://cs50.harvard.edu/x/2024/weeks/6/)
+
+Problem Set 6:
+
+-   [hello](https://cs50.harvard.edu/x/2024/psets/6/hello/)
+
+-   [mario](https://cs50.harvard.edu/x/2024/psets/6/mario/more/)
+
+-   [credit](https://cs50.harvard.edu/x/2024/psets/6/credit/)
+
+-   [readability](https://cs50.harvard.edu/x/2024/psets/6/readability/)
+
+-   [DNA](https://cs50.harvard.edu/x/2024/psets/6/dna/)
+
+### [Week 7: SQL](https://cs50.harvard.edu/x/2024/weeks/7/)
+
+-   in progress...
