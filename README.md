@@ -2,7 +2,7 @@
 
 All files from the Harvard University's course - [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) that I've gone through so far.
 
-The repository contains all examples from the lectures, my solutions to the problem sets and [additional practice problems](https://cs50.harvard.edu/x/2024/practice/).
+The repository contains all examples from the lectures (directories named w1-w7), my solutions to the problem sets and [additional practice problems](https://cs50.harvard.edu/x/2024/practice/).
 
 ### [Week 1: C](https://cs50.harvard.edu/x/2024/weeks/1/)
 
