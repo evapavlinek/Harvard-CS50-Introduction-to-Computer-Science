@@ -4,7 +4,7 @@ All files from the Harvard University's course - [CS50’s Introduction to Compu
 
 The repository contains all examples from the lectures (directories named w1-w7), my solutions to the problem sets and [additional practice problems](https://cs50.harvard.edu/x/2024/practice/).
 
-Each week's topics and short descriptions of the problems are as follows:
+Each week's topic and short descriptions of the problems are as follows:
 
 ### [Week 1: C](https://cs50.harvard.edu/x/2024/weeks/1/)
 
