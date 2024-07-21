@@ -70,4 +70,10 @@ Problem Set 6:
 
 ### [Week 7: SQL](https://cs50.harvard.edu/x/2024/weeks/7/)
 
--   in progress...
+Problem set 7:
+
+-   [songs](https://cs50.harvard.edu/x/2024/psets/7/songs/) - SQL queries to answer questions about a database of the 100 most-streamed songs on Spotify in 2018
+
+-   [movies ](https://cs50.harvard.edu/x/2024/psets/7/movies/)- SQL queries to answer questions about the database that stores data from IMDb about movies, the people who directed and starred in them, and their ratings
+
+-   [fiftyville](https://cs50.harvard.edu/x/2024/psets/7/fiftyville/) - gamified SQL mystery about who stole the CS50 rubber duck

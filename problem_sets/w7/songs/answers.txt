@@ -1,0 +1,18 @@
+Suppose Spotify determines an audio aura by looking at the
+average energy, valence, and danceability of a person’s
+top 100 songs from the past year.
+
+If songs.db contains the top 100 songs of one listener from 2018,
+how would you characterize their audio aura?
+
+I would say that this person's audio aura is mostly purple.
+
+
+Hypothesize about why the way you’ve calculated this aura might not
+be very representative of the listener.
+What better ways of calculating this aura would you propose?
+
+We could consider other variables as well, such as loudness, speechiness and tempo.
+We could also include more than just top 100 songs, or perhaps include some way of normalisation
+based on the number of the listening times where more listened songs would contribute
+more to the audio aura.
